@@ -1,3 +1,0 @@
-Expense:500
-Catogary:Burger
-Description:I buy burger because i'm hungry
